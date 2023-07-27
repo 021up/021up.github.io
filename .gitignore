@@ -128,3 +128,10 @@ dist
 
 # mac file
 *.DS_Store
+
+
+*public/
+
+*package-lock.json
+*db.json
+
