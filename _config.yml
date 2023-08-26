@@ -94,6 +94,15 @@ include:
 exclude:
 ignore:
 
+
+aside:
+  card_author:
+    button:
+      enable: true
+      icon: fab fa-github
+      text: Follow Me
+      link: https://github.com/de0rg
+
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
